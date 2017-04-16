@@ -1,4 +1,4 @@
-Program: PythonPoker.py
+Program: PythonPoker.p
 Author: NorthBridge
 Program Version 2.2
 Python Version: 2.7
